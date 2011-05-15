@@ -1,0 +1,19 @@
+version: 1.9.2-p180
+source: http://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p180.tar.gz
+buildrequires:
+ - readline
+ - readline-devel
+ - ncurses
+ - ncurses-devel
+ - gdbm
+ - gdbm-devel
+ - glibc-devel
+ - tcl-devel
+ - tk-devel
+ - libX11-devel
+ - gcc
+ - unzip
+ - openssl-devel
+ - db4-devel
+ - byacc
+requires:
